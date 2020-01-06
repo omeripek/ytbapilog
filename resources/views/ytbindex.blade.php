@@ -7,6 +7,18 @@
         <title>YTB Api Log</title>
      </head>
   <body>
+  	<div class="container">
+  		<header>
+  			
+  		</header>
 
+  		<section id="video">
+  			
+  		</section>
+
+  		<main>
+  			
+  		</main>
+  	</div>
   </body>
 </html>
